@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ee3f21b.chunk.css",
+    "main.js": "/static/js/main.3a01b1f2.chunk.js",
+    "main.js.map": "/static/js/main.3a01b1f2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bb5a3d7c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bb5a3d7c.js.map",
+    "static/js/2.ffb56635.chunk.js": "/static/js/2.ffb56635.chunk.js",
+    "static/js/2.ffb56635.chunk.js.map": "/static/js/2.ffb56635.chunk.js.map",
+    "static/js/3.15baf85b.chunk.js": "/static/js/3.15baf85b.chunk.js",
+    "static/js/3.15baf85b.chunk.js.map": "/static/js/3.15baf85b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0ee3f21b.chunk.css.map": "/static/css/main.0ee3f21b.chunk.css.map",
+    "static/js/2.ffb56635.chunk.js.LICENSE.txt": "/static/js/2.ffb56635.chunk.js.LICENSE.txt",
+    "static/media/JakobOwens-img.4e3dfab9.jpeg": "/static/media/JakobOwens-img.4e3dfab9.jpeg",
+    "static/media/background.be237f4c.jpeg": "/static/media/background.be237f4c.jpeg",
+    "static/media/beach.f1deb69a.jpeg": "/static/media/beach.f1deb69a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb5a3d7c.js",
+    "static/js/2.ffb56635.chunk.js",
+    "static/css/main.0ee3f21b.chunk.css",
+    "static/js/main.3a01b1f2.chunk.js"
+  ]
+}
